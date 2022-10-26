@@ -1,0 +1,6 @@
+torch
+torchvision
+timm
+yacs
+opencv-python
+fairseq
