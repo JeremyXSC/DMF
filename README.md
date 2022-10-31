@@ -8,7 +8,7 @@
 
 <img src='images/DMF.png'/>
 
-This is the official implementation of our paper [Deep Multimodal Fusion for Generalizable Person Reidentification](). 
+This is the official implementation of our paper [Deep Multimodal Fusion for Generalizable Person Reidentification](). And the pretrained models are downloaded from [data2vec](https://github.com/facebookresearch/data2vec_vision/tree/main/beit).
 
 ### News
 - Support Market1501, CUHK03 and MSMT17 datasets.
@@ -40,5 +40,5 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python test.py
 ```
 
 ### Acknowledgments
-This work was supported by the National Natural Science Foundation of China under Project(Grant No. 61977045 and Grant No. 81974276).
+This work was supported by the National Natural Science Foundation of China under Projects (Grant No. 61977045 and Grant No. 81974276).
 If you have further questions and suggestions, please feel free to contact us (xiangsuncheng17@sjtu.edu.cn).
