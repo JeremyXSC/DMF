@@ -37,3 +37,8 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py
 3. Testing
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 python test.py
+```
+
+### Acknowledgments
+This work was supported by the National Natural Science Foundation of China under Project(Grant No. 61977045 and Grant No. 81974276).
+If you have further questions and suggestions, please feel free to contact us (xiangsuncheng17@sjtu.edu.cn).
