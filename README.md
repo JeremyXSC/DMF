@@ -8,7 +8,7 @@
 
 <img src='images/DMF.png'/>
 
-This is the official implementation of our paper [Deep Multimodal Fusion for Generalizable Person Reidentification](). And the pretrained models are downloaded from [data2vec](https://github.com/facebookresearch/data2vec_vision/tree/main/beit).
+This is the official implementation of our paper [Deep Multimodal Fusion for Generalizable Person Re-identification](). And the pretrained models can be downloaded from [data2vec](https://github.com/facebookresearch/data2vec_vision/tree/main/beit).
 
 ### News
 - Support Market1501, CUHK03 and MSMT17 datasets.
@@ -27,9 +27,9 @@ Write the documents
 - fairseq
 
 ### How to use it?
-This repo. supports training on multiple GPUs and the default setting is also multi-GPU.
+This repo. supports training on multiple GPUs and the default setting is single GPU (RTX 3090 GPU).
 
-1. Download all necessry datasets, e.g. Market1501, CUHK03 and MSMT17 datasets.  
+1. Download all necessry datasets (e.g. Market1501, CUHK03 and MSMT17 datasets) and move them to 'data'.   
 2. Training
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py
