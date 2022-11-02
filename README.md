@@ -51,14 +51,14 @@ python test.py
         <th rowspan="2">Settings</th>
     </tr>
     <tr>
-        <td>align="center">Rank-1</td>
-        <td>align="center">mAP</td>
-		<td>align="center">Rank-1</td>
-        <td>align="center">mAP</td>
-        <td>align="center">Rank-1</td>
-        <td>align="center">mAP</td>
+        <td align="center">Rank-1</td>
+        <td align="center">mAP</td>
+		<td align="center">Rank-1</td>
+        <td align="center">mAP</td>
+        <td align="center">Rank-1</td>
+        <td align="center">mAP</td>
     </tr>
-    <tr><td>Market-1501</td><td>align="center">--</td><td>align="center">--</td><td>align="center">23.4</td><td>align="center">22.6</td><td>align="center">50.6</td><td>align="center">21.5</td><td>align="center">1GPU</td></tr>
+    <tr><td>Market-1501</td><td align="center">--</td><td align="center">--</td><td align="center">23.4</td><td align="center">22.6</td><td align="center">50.6</td><td align="center">21.5</td><td align="center">1GPU</td></tr>
     <tr><td>MSMT17</td><td>81.3</td><td>55.1</td><td>26.1</td><td>24.7</td><td>--</td><td>--</td><td>1GPU</td></tr>
     <tr><td>MSMT17<sub>all</sub>~</td><td>82.6</td><td>58.8</td><td>34.0</td><td>32.1</td><td>--</td><td>--</td><td>1GPU</td></tr>
     <tr><td>RandPerson</td><td>78.7</td><td>52.0</td><td>21.5</td><td>19.3</td><td>52.4</td><td>18.9</td><td>1GPU</td></tr>
