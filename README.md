@@ -67,3 +67,13 @@ python test.py
 ### Acknowledgments
 This work was supported by the National Natural Science Foundation of China under Projects (Grant No. 61977045 and Grant No. 81974276).
 If you have further questions and suggestions, please feel free to contact us (xiangsuncheng17@sjtu.edu.cn).
+
+If you find this code useful in your research, please consider citing:
+```
+@article{xiang2022deep,
+  title={Deep Multimodal Fusion for Generalizable Person Re-identification},
+  author={Xiang, Suncheng and Chen, Hao and Gao, Jingsheng and Du, Sijia and Mou, Jiawang and Liu, Ting and Qian, Dahong and Fu, Yuzhuo},
+  journal={arXiv preprint arXiv:2211.00933},
+  year={2022},
+}
+```
