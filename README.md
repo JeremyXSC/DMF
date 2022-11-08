@@ -8,7 +8,7 @@
 
 <img src='images/DMF.png'/>
 
-This is the official implementation of our paper [Deep Multimodal Fusion for Generalizable Person Re-identification](). And the pretrained models can be downloaded from [data2vec](https://github.com/facebookresearch/data2vec_vision/tree/main/beit).
+This is the official implementation of our paper [Deep Multimodal Fusion for Generalizable Person Re-identification](https://arxiv.org/pdf/2211.00933.pdf). And the pretrained models can be downloaded from [data2vec](https://github.com/facebookresearch/data2vec_vision/tree/main/beit).
 
 ### News
 - Support Market1501, CUHK03, MSMT17 and RandPerson datasets.
