@@ -17,7 +17,7 @@ This is the official implementation of our paper [Deep Multimodal Fusion for Gen
 
 
 ### TODO
-Write the documents
+Write the documents.
 
 ### Requirements
 - torch
