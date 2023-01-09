@@ -20,6 +20,7 @@ This is the official implementation of our paper [Deep Multimodal Fusion for Gen
 Write the documents.
 
 ### Requirements
+- python2 
 - torch
 - torchvision
 - timm
@@ -72,7 +73,7 @@ If you find this code useful in your research, please consider citing:
 ```
 @article{xiang2022deep,
   title={Deep Multimodal Fusion for Generalizable Person Re-identification},
-  author={Xiang, Suncheng and Chen, Hao and Gao, Jingsheng and Du, Sijia and Mou, Jiawang and Liu, Ting and Qian, Dahong and Fu, Yuzhuo},
+  author={Xiang, Suncheng and Chen, Hao and Ran, Wei and Yu, Zefang and Liu, Ting and Qian, Dahong and Fu, Yuzhuo},
   journal={arXiv preprint arXiv:2211.00933},
   year={2022},
 }
